@@ -1,0 +1,53 @@
+h1 {
+    text-shadow:3px 5px 6px rgba(57, 57, 80, 0.719)
+    
+}
+h1 {
+     color: #2c1729;
+}
+h1 {
+    font-size: 53px;
+        text-align: center; 
+}
+body   {
+    background-color: rgb(134, 235, 185);
+}
+ul {
+    font-size: 30px;
+}
+img {
+    width: 900px;
+    height: 500px;
+    margin-left: 500px;
+}
+p {
+    font-size: 22px;
+}
+.text1 { 
+    font-size: 21.7px;
+}
+li { 
+    font-size: 21.3px;
+}
+.photo1 {  
+    width: 1500px;
+    height: 600px;
+    margin-left: 55px;
+}
+.linb { 
+    text-decoration: none}
+    .photo2 
+    {   width: 900px;
+        height: 500px;
+        margin-left: 350px; }
+        .photo3 
+        {   width: 900px;
+            height: 500px;
+            margin-left: 350px; } 
+            p::first-letter {
+                color: rgb(21, 21, 22);
+                
+                font-size: 200%;
+             }
+            
+        
